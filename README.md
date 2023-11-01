@@ -57,11 +57,3 @@ v1.0.0 ⋮ 01/11/2023
 ```
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/github/license/Sysys242/Discord-Token-Generator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/Sysys242/Discord-Token-Generator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/top/Sysys242/Discord-Token-Generator.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
-</p>
-
-<p>ReadMe By https://github.com/imvast</p>
