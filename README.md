@@ -20,7 +20,7 @@
 ### ⚙️ Installation
 
 - Requires: `Python 3.8+`
-- Start: `py main.py`
+- Start (in cmd): `py main.py`
 
 ---
 
