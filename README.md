@@ -30,6 +30,7 @@
 - SelfBot (doesnt need bot tokens)
 - Copy channels, roles
 - Set channels and roles in a good order
+- Vastien get a life ur issues aint doing shit
 
 ---
 
