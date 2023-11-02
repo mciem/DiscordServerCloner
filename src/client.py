@@ -1,11 +1,4 @@
 from tls_client import Session
-from datetime import datetime
-
-import subprocess
-import re
-import json
-import subprocess
-
 
 def buildClient(proxy: str) -> None:
     headers = {
